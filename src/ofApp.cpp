@@ -27,7 +27,7 @@ void ofApp::setup(){
   
   //if you want to set a different device id
   // soundcloud -> soundflower ch2 output, soundflowerbed
-  soundStream.setDeviceID(4); //bear in mind the device id corresponds to all audio devices, including  input-only and output-only devices.
+  soundStream.setDeviceID(7); //bear in mind the device id corresponds to all audio devices, including  input-only and output-only devices.
   
   int bufferSize = 256;
   
