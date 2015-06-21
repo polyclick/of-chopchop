@@ -1,6 +1,5 @@
 # of-chopchop
 Glitch demoscene in openframeworks that reacts on audio volume
-Preview movie: https://raw.github.com/polyclick/of-chopchop/master/readme-assets/chopchop.mov
 
 ![alt tag](https://raw.github.com/polyclick/of-chopchop/master/readme-assets/preview-01.png)
 ![alt tag](https://raw.github.com/polyclick/of-chopchop/master/readme-assets/preview-02.png)
